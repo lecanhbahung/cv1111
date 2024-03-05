@@ -1,0 +1,39 @@
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+html{
+    background-color:#fff;
+}
+.o{
+     margin: 50px 0 50px 0;
+    padding: 0 200px 0 200px;
+}   
+.anh{
+    margin-bottom: 10 226px 10 226px;
+    position: relative;
+    left: 800px;
+}
+.ha{
+    text-align:center ;
+    margin-bottom:   50px;
+}
+body{
+    background-color: aliceblue;
+
+}
+.anh-if{
+    vertical-align: auto;
+    margin-right: 30%;
+    float: right;
+    border-radius: 100%;
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+
